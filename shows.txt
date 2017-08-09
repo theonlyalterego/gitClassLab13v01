@@ -2,4 +2,8 @@ flash
 simpsons
 futurama
 GoT
+bananna
+cat
+dog
+wolf
 rick and morty
