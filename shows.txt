@@ -7,4 +7,4 @@ cat
 dog
 wolf
 rick and morty
-BMJ 3
+BMJ 2&3
